@@ -82,6 +82,3 @@ Feel free to mail me for any doubts/query ✉️ ammarmughal698@gmail.com
 
 ##  🤝 Contribution
 Feel free to file a new issue with a respective title and description on the this mask detection repository. If you already found a solution to your problem, I would love to review your pull request!
-
-## ❤️ Owner
-Made with ❤️  by MEMUDU Alimatou Sadia Anike
